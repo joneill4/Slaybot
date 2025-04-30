@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "@slack/bolt": "^4.2.1",
+    "@slack/events-api": "^3.0.1",
     "dotenv": "^16.4.7"
   }
 }
